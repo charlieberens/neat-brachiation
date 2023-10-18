@@ -1,0 +1,11 @@
+venv
+__pycache__/
+.vscode
+build
+neat-checkpoint-*
+statistics
+progress
+test.gif
+train.ipynb
+test.py
+meta
